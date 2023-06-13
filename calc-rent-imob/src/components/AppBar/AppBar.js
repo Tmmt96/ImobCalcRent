@@ -15,7 +15,6 @@ const AppBar = () => (
       <nav class="navMenu">
       <a href="#">Home</a>
       <a href="/services">Services</a>
-      <a href="/work">Work</a>
       <a href="/about">About</a>
       <div class="dot"></div>
     </nav>
